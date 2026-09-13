@@ -4,4 +4,6 @@
 # Un-ignore only required
 !.gitignore
 !hypr/
+!hypr/**
 !noctalia/
+!noctalia/**

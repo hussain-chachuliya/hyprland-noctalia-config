@@ -1,0 +1,11 @@
+[accessibility]
+ui_scale = 1.20
+
+[theme]
+community_palette = "Oxocarbon"
+mode = "dark"
+source = "wallpaper"
+wallpaper_scheme = "m3-tonal-spot"
+
+    [theme.templates]
+    builtin_ids = [ "hyprland", "btop", "gtk3", "gtk4", "kcolorscheme", "kitty", "qt", "alacritty" ]

@@ -1,0 +1,11 @@
+[dock]
+auto_hide = true
+border = "on_surface_variant"
+border_width = 0.5
+enabled = true
+icon_size = 36
+launcher_position = "start"
+pinned = [ "dev.noctalia.Noctalia", "ai.opencode.desktop" ]
+position = "left"
+reserve_space = false
+show_dots = true

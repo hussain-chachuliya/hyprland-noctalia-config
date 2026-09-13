@@ -1,0 +1,23 @@
+[bar.default]
+background_opacity = 0.71999998390674591
+center = [ "workspaces", "spacer_1", "active_window" ]
+concave_edge_corners = true
+end = [ "media", "spacer_1", "tray", "notifications", "spacer_2", "network", "spacer_2", "volume", "spacer_2", "battery", "session" ]
+shadow = false
+margin_edge = 0
+margin_ends = 0
+radius_bottom_left = 10
+radius_bottom_right = 10
+radius_top_left = 0
+radius_top_right = 0
+scale = 1.10
+start = [ "launcher", "clock", "clock-ampm", "spacer_1", "clock-date", "spacer_1", "group:g1" ]
+thickness = 35
+
+    [[bar.default.capsule_group]]
+    border = ""
+    fill = "on_secondary"
+    id = "g1"
+    members = [ "temp", "spacer_2", "sysmon_2", "spacer_2", "sysmon_3" ]
+    opacity = 1.0
+    padding = 8.0
