@@ -1,0 +1,16 @@
+[system.monitor]
+gpu_poll_seconds = 2
+
+[calendar]
+enabled = true
+event_time_format = "%hh:%mm"
+
+[calendar.account.google]
+type = "google"
+name = "Google"
+
+[control_center.calendar]
+show_events_card = false
+
+[location]
+auto_locate = true
