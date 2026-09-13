@@ -1,0 +1,7 @@
+# Ignore everything by default
+*
+
+# Un-ignore only required
+!.gitignore
+!hypr/
+!noctalia/
