@@ -2,12 +2,6 @@
 color = "secondary"
 format = "{:%I:%M}"
 
-[widget.clock-ampm]
-type = "clock"
-color = "secondary"
-font_scale = 0.75
-format = "{:%p}"
-
 [widget.clock-date]
 type = "clock"
 color = "secondary"
