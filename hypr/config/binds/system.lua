@@ -22,7 +22,8 @@ hl.bind(V.MOD_KEY .. " + ALT + D",    hl.dsp.exec_cmd(V.NOCTALIA_CMD .. "dock-au
 hl.bind(V.MOD_KEY .. " + CTRL + G",   hl.dsp.exec_cmd(V.NOCTALIA_CMD .. "caffeine-toggle"), { description = "Toggle caffeine (keep awake)" })
 hl.bind(V.MOD_KEY .. " + CTRL + U",   hl.dsp.exec_cmd(V.NOCTALIA_CMD .. "nightlight-toggle"), { description = "Toggle night light" })
 hl.bind(V.MOD_KEY .. " + CTRL + O",   hl.dsp.exec_cmd(V.NOCTALIA_CMD .. "osd-toggle"), { description = "Toggle on-screen display" })
-hl.bind(V.MOD_KEY .. " + SHIFT + G",  hl.dsp.exec_cmd(V.NOCTALIA_CMD .. "bluetooth-toggle"), { description = "Toggle Bluetooth" })
+hl.bind(V.MOD_KEY .. " + SHIFT + B",  hl.dsp.exec_cmd(V.NOCTALIA_CMD .. "bluetooth-toggle"), { description = "Toggle Bluetooth" })
+hl.bind(V.MOD_KEY .. " + SHIFT + P",  hl.dsp.exec_cmd(V.NOCTALIA_CMD .. "panel-toggle session"), { description = "Toggle session panel" })
 hl.bind(V.MOD_KEY .. " + CTRL + F",   hl.dsp.exec_cmd(V.NOCTALIA_CMD .. "wifi-toggle"), { description = "Toggle Wi-Fi" })
 hl.bind(V.MOD_KEY .. " + CTRL + X",   hl.dsp.exec_cmd(V.NOCTALIA_CMD .. "network-toggle"), { description = "Toggle network" })
 
