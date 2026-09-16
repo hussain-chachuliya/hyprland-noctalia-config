@@ -13,8 +13,8 @@ hl.config({
     decoration = {
         dim_inactive = true,
         dim_strength = 0.5,
-        rounding = 15,
-        rounding_power = 10.0,
+        rounding = 12,
+        rounding_power = 3.0,
         shadow = {
             enabled = false,
         },
@@ -25,11 +25,8 @@ hl.config({
     general = {
         border_size = 1,
         col = {
-            active_border = {
-                colors = {"rgba(8ff0a4ff)"},
-                angle = 45,
-            },
-            inactive_border = "0xff000000",
+            active_border = "0xffb4c9d9",
+            inactive_border = "0xff121314",
         },
         extend_border_grab_area = 60,
         gaps_in = 0,
