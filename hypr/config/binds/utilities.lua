@@ -8,8 +8,6 @@ local V = require("config.variables")
 -- Screen Capture
 hl.bind("Print",                   hl.dsp.exec_cmd(V.NOCTALIA_CMD .. "screenshot-fullscreen"), { description = "Capture region" })
 hl.bind(V.MOD_KEY .. " + Print",   hl.dsp.exec_cmd(V.NOCTALIA_CMD .. "screenshot-region"), { description = "Capture fullscreen" })
-hl.bind(V.MOD_KEY .. " + ALT + F", hl.dsp.exec_cmd(V.NOCTALIA_CMD .. "screenshot-fullscreen"), { description = "Capture fullscreen" })
-hl.bind(V.MOD_KEY .. " + ALT + S", hl.dsp.exec_cmd(V.NOCTALIA_CMD .. "screenshot-region"), { description = "Capture region" })
 
 -- Theming and Wallpaper
 hl.bind(V.MOD_KEY .. " + P",         hl.dsp.exec_cmd("hyprpicker -a -n"),       { description = "Pick color" })

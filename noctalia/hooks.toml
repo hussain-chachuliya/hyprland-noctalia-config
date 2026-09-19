@@ -1,3 +1,0 @@
-[hooks]
-battery_charging    = "pw-play /usr/share/sounds/freedesktop/stereo/power-plug.oga"
-battery_discharging = "pw-play /usr/share/sounds/freedesktop/stereo/power-unplug.oga"

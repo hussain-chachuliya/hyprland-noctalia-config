@@ -9,7 +9,7 @@ local variables = {
     -- Default apps
     TERMINAL     = "alacritty",
     FILE_MANAGER = "thunar",
-    BROWSER      = "firefox",
+    BROWSER      = "brave",
     EDITOR       = "mousepad",
     CALCULATOR   = "gnome-calculator",
     OPENCODE     = "opencode-desktop",
