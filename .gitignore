@@ -3,8 +3,15 @@
 
 # Un-ignore only required
 !.gitignore
+
 !hypr/
 !hypr/**
+
 !noctalia/
 !noctalia/**
 
+!gtk-3.0/
+!gtk-3.0/**
+
+!gtk-4.0/
+!gtk-4.0/**
