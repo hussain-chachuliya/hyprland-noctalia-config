@@ -1,9 +1,0 @@
-[wallpaper]
-    [wallpaper.default]
-    path = "/home/hussain/Pictures/wallhaven-xp_2560x1600.png"
-
-    [wallpaper.last]
-    path = "/home/hussain/Pictures/wallhaven-xp_2560x1600.png"
-
-    [wallpaper.monitors.eDP-1]
-    path = "/home/hussain/Pictures/wallhaven-xp_2560x1600.png"
