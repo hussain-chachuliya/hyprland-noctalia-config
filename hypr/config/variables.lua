@@ -10,7 +10,7 @@ local variables = {
     TERMINAL     = "alacritty",
     FILE_MANAGER = "thunar",
     BROWSER      = "brave",
-    EDITOR       = "mousepad",
+    EDITOR       = "geany",
     CALCULATOR   = "gnome-calculator",
     OPENCODE     = "opencode-desktop",
 
