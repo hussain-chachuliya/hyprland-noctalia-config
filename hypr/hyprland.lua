@@ -35,3 +35,4 @@ require("hyprland-gui")
 
 ---- Layer 3: Live theme (Noctalia) — overrides Layers 1-2 ----
 require("noctalia").apply_theme()
+
