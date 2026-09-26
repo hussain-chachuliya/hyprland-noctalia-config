@@ -13,6 +13,7 @@ local variables = {
     EDITOR       = "geany",
     CALCULATOR   = "gnome-calculator",
     OPENCODE     = "opencode-desktop",
+    NOTES        = "obsidian",
 
     -- Monitors
     MONITOR1 = MONITOR1,

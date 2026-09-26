@@ -1,0 +1,35 @@
+[Added Associations]
+application/vnd.appimage=com.shellyorg.shelly.desktop;
+image/jpeg=brave-origin.desktop;qimgv.desktop;
+image/png=qimgv.desktop;
+text/x-python3=geany.desktop;
+text/x-lua=geany.desktop;
+text/plain=geany.desktop;
+application/xml=geany.desktop;
+application/vnd.efi.iso=gnome-disk-image-mounter.desktop;
+text/x-shellscript=geany.desktop;
+image/webp=com.interversehq.qView.desktop;
+text/markdown=okularApplication_md.desktop;
+
+[Default Applications]
+inode/directory=org.kde.dolphin.desktop;
+text/plain=geany.desktop
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;
+x-scheme-handler/opencode=ai.opencode.desktop.desktop
+application/xhtml+xml=brave-browser.desktop
+application/rss+xml=brave-browser.desktop
+application/xml=geany.desktop
+application/vnd.appimage=com.shellyorg.shelly.desktop
+x-scheme-handler/tokentracker=tokentracker-appimage.desktop
+image/jpeg=qimgv.desktop
+image/png=qimgv.desktop
+text/x-python3=org.gnome.TextEditor.desktop
+application/pdf=okularApplication_pdf.desktop
+text/x-lua=geany.desktop
+application/vnd.efi.iso=gnome-disk-image-mounter.desktop
+application/schema+json=geany.desktop
+application/json=geany.desktop
+text/x-shellscript=geany.desktop
+image/webp=com.interversehq.qView.desktop
+text/markdown=okularApplication_md.desktop
