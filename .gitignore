@@ -3,6 +3,13 @@
 
 # Un-ignore only required
 !.gitignore
+!.gitattributes
+!README.md
+
+# git filter driver used to keep the generated colors in hypr/noctalia.lua
+# out of the repo while still tracking the file
+!git-filters/
+!git-filters/**
 
 !hypr/
 !hypr/**

@@ -9,7 +9,7 @@ application/xml=geany.desktop;
 application/vnd.efi.iso=gnome-disk-image-mounter.desktop;
 text/x-shellscript=geany.desktop;
 image/webp=com.interversehq.qView.desktop;
-text/markdown=okularApplication_md.desktop;
+text/markdown=geany.desktop;okularApplication_md.desktop;
 
 [Default Applications]
 inode/directory=org.kde.dolphin.desktop;
